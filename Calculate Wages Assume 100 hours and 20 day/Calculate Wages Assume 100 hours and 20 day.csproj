@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Calculate_Wages_Assume_100_hours_and_20_day</RootNamespace>
+  </PropertyGroup>
+
+</Project>

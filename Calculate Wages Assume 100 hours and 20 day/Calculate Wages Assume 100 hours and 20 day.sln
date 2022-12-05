@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculate Wages Assume 100 hours and 20 day", "Calculate Wages Assume 100 hours and 20 day.csproj", "{15AED8E2-2132-4791-A53C-769AA4D7BB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15AED8E2-2132-4791-A53C-769AA4D7BB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15AED8E2-2132-4791-A53C-769AA4D7BB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15AED8E2-2132-4791-A53C-769AA4D7BB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15AED8E2-2132-4791-A53C-769AA4D7BB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86EB17D-3D99-4BAC-AD60-B30BF59E679D}
+	EndGlobalSection
+EndGlobal
