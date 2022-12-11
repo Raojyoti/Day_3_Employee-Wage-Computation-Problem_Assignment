@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manage Employee Wage for multiple using array", "Manage Employee Wage for multiple using array.csproj", "{ABB342C4-DFAA-463D-B36C-47FA46EB859E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB342C4-DFAA-463D-B36C-47FA46EB859E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB342C4-DFAA-463D-B36C-47FA46EB859E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB342C4-DFAA-463D-B36C-47FA46EB859E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB342C4-DFAA-463D-B36C-47FA46EB859E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690AD153-2AB5-41C5-9B0E-1D04D05E50F1}
+	EndGlobalSection
+EndGlobal
