@@ -7,8 +7,8 @@ namespace Calculate_Wages_Assume_100_hours_and_20_day
         public const int Full_Time = 1;
         public const int Part_Time = 2;
         public const int Emp_Per_Hours = 20;
-        public const int Num_Of_Working_Days = 2;
-        public const int Max_Hrs_In_Month = 10;
+        public const int Num_Of_Working_Days =20;
+        public const int Max_Hrs_In_Month = 100;
         static void Main(string[] args)
         {
             int empHrs = 0, totalEmpHrs = 0, totalWorkingDays = 0;

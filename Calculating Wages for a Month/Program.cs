@@ -10,11 +10,11 @@ namespace Calculating_Wages_for_a_Month
         public const int Num_Of_Working_Days = 20;
         static void Main(string[] args)
         {
-            int empHrs=0, empWage=0, totalEmpWage=0;
-            Random random = new Random();
-            int check = random.Next(0, 3);
+            int empHrs = 0, empWage = 0, totalEmpWage = 0;
             for (int day = 1; day <=Num_Of_Working_Days; day++)
             {
+                Random random = new Random();
+                int check = random.Next(0, 3);
                 switch (check)
                 {
                     case Full_Time:
